@@ -10,7 +10,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Website-1962B1?style=for-the-badge&logo=rocket&logoColor=white"></a> 
 </a> 
-<a href="mailto:@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="mailto:vianatechdev@gmail.com
+@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </a> 
 <br/><br/><br/>
 
